@@ -164,10 +164,10 @@ Deploy for free on [Streamlit Community Cloud](https://share.streamlit.io):
 
 ## 👤 Author
 
-Built by **[Your Name]** as a portfolio project to demonstrate agentic AI development with LangChain and Groq.
+Built by **Charbel Farhat** as a portfolio project to demonstrate agentic AI development with LangChain and Groq.
 
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@charbel-farhat](https://github.com/charbel-farhat)
+- LinkedIn: [Charbel Farhat](https://linkedin.com/in/charbeleliasfarhat)
 
 ---
 
